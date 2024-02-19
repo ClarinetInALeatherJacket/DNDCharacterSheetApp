@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Sam Ple",
+    "class": "fighter",
+    "expertise": false,
+    "health": 15,
+    "casting": ["none"],
+    "stats": {
+      "str": 10,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 10
+    },
+    "saving_throw_prof": [
+      "dex", "int"
+    ],
+    "expertise_value": {
+      "acrobatics": 1,
+      "animal_handling": 0,
+      "arcana": 0,
+      "athletics": 0,
+      "deception": 0,
+      "history": 0,
+      "insight": 0,
+      "intimidation": 0,
+      "investigation": 1,
+      "medicine": 0,
+      "nature": 0,
+      "perception": 0,
+      "performance": 0,
+      "persuasion": 0,
+      "sleight_of_hand": 0,
+      "stealth": 0,
+      "survival": 0
+    }
+  }
+]
