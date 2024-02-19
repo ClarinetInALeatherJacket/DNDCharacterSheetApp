@@ -1,0 +1,21 @@
+{
+  "name": "dndcharactersheetapp",
+  "version": "1.0.0",
+  "description": "A basic dnd character sheet representation app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarinetInALeatherJacket/DNDCharacterSheetApp.git"
+  },
+  "keywords": [],
+  "author": "Leon Nitsch, Amanda Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClarinetInALeatherJacket/DNDCharacterSheetApp/issues"
+  },
+  "homepage": "https://github.com/ClarinetInALeatherJacket/DNDCharacterSheetApp#readme"
+}
