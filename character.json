@@ -2,6 +2,7 @@
   {
     "name": "Sam Ple",
     "class": "fighter",
+    "level": 4,
     "expertise": false,
     "health": 15,
     "casting": ["none"],
@@ -13,9 +14,14 @@
       "wis": 10,
       "cha": 10
     },
-    "saving_throw_prof": [
-      "dex", "int"
-    ],
+    "saving_throw_prof": {
+      "str": 0,
+      "dex": 1,
+      "con": 0,
+      "int": 1,
+      "wis": 0,
+      "cha": 0
+    },
     "expertise_value": {
       "acrobatics": 1,
       "animal_handling": 0,

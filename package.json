@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/ClarinetInALeatherJacket/DNDCharacterSheetApp#readme",
   "devDependencies": {
-    "electron": "^28.2.3"
+    "electron": "^28.2.3",
+    "JSON": "^1.0.0",
+    "Math": "^0.0.1-security"
   }
 }
